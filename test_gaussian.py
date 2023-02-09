@@ -1,4 +1,5 @@
 import unittest
+from gaussian import Gaussian
 
 class TestGaussianClass(unittest.TestCase):
     def setUp(self):
