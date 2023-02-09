@@ -1,2 +1,2 @@
-# gaussian
+# Gaussian Class
 Gaussian Distribution 
